@@ -1,1 +1,13 @@
-#### SpaceX Falcon 9 Data Analysis and Predictions
+# SpaceX Falcon 9 Data Analysis and Predictions
+
+## Project Overview
+
+This project aims to analyze historical SpaceX Falcon 9 launch data and build predictive models to determine the likelihood of successful booster landings. The insights and predictions derived from this project could provide valuable information for aerospace enthusiasts, data scientists, and anyone interested in the future of space exploration.
+
+## Features
+
+Exploratory Data Analysis (EDA): Understand trends, patterns, and key metrics in the Falcon 9 launch data.
+
+Data Visualization: Present findings through compelling visualizations.
+
+Predictive Modeling: Build and evaluate machine learning models to predict the success of Falcon 9 booster landings.
