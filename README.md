@@ -33,5 +33,7 @@ Landing outcome
 To run this project locally, follow these steps:
 
 1. Clone the Repository:
-   ```git clone https://github.com/moha-55/SpaceX-Falcon-9-Data-Analysis_and_predictions.git
-cd SpaceX-Falcon-9-Data-Analysis_and_predictions```
+```
+git clone https://github.com/moha-55/SpaceX-Falcon-9-Data-Analysis_and_predictions.git
+cd SpaceX-Falcon-9-Data-Analysis_and_predictions
+```
