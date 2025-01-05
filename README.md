@@ -11,3 +11,27 @@ Exploratory Data Analysis (EDA): Understand trends, patterns, and key metrics in
 Data Visualization: Present findings through compelling visualizations.
 
 Predictive Modeling: Build and evaluate machine learning models to predict the success of Falcon 9 booster landings.
+
+## Datasets
+
+The analysis leverages data from SpaceX's publicly available datasets. Key attributes include:
+
+Launch date and time
+
+Booster version
+
+Launch site
+
+Payload mass
+
+Orbit type
+
+Landing outcome
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the Repository:
+git clone https://github.com/moha-55/SpaceX-Falcon-9-Data-Analysis_and_predictions.git
+cd SpaceX-Falcon-9-Data-Analysis_and_predictions
