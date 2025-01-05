@@ -37,3 +37,17 @@ To run this project locally, follow these steps:
 git clone https://github.com/moha-55/SpaceX-Falcon-9-Data-Analysis_and_predictions.git
 cd SpaceX-Falcon-9-Data-Analysis_and_predictions
 ```
+
+2. Set Up a Python Environment:
+ Install Python 3.8 or higher and create a virtual environment:
+```
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+```
+3. Install Required Packages:
+```
+pip install -r requirements.txt
+```
+4. Download the Data:
+
+
