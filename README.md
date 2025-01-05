@@ -49,5 +49,7 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
 ```
 4. Download the Data:
-
+```
+requests.get("https://api.spacexdata.com/v4/rockets/"+str(x)).json()
+```
 
